@@ -1,4 +1,4 @@
-# Pangsol-pretty
+# 팡솔-프리티
 <!DOCTYPE HTML>
 <html lang="ko">
 <머리>
