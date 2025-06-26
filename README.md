@@ -1,0 +1,2 @@
+# Pangsol-pretty
+.
